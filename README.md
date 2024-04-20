@@ -1,5 +1,5 @@
 # EjercicioKonfioAbr24
-Código de solución de Ejercicio Konfio realizado por Julio Gaspar
+Código productivo para Ejercicio Konfio realizado por Julio Gaspar
 
 ## Contenido:
 - class_definition.py: Módulo donde definimos la clase "solicitud" la cual tiene definido un método para calificarlas solicitudes con el modelo desarrollado.
@@ -11,5 +11,5 @@ Código de solución de Ejercicio Konfio realizado por Julio Gaspar
 - requirements.txt: Archivo texto con información del versionamiento de Python y librerias en el dónde se desarrolló el código.
 
 ## Importante:
-- En el módulo extraction_cleaning.py debe ser actualizada la variable *path_db* con la dirección de la carpeta donde se guarda la información internal_payments, external_features y credit_reports.
-- En el módulo inference.py debe ser actualizada la variable *path* con la dirección de la carpeta donde está el objeto serializado pipeline_final_f.konfio.
+- En el módulo extraction_cleaning.py debe ser actualizada la variable **path_db** con la dirección de la carpeta donde se guarda la información internal_payments, external_features y credit_reports.
+- En el módulo inference.py debe ser actualizada la variable **path** con la dirección de la carpeta donde está el objeto serializado pipeline_final_f.konfio.
