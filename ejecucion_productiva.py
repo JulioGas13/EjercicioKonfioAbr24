@@ -14,5 +14,5 @@ import class_definition
 #Calificación de solicitudes
 cliente_calificado=class_definition.solicitud(1615) #Actualizar con application_id que queramos calificar
 resultado= cliente_calificado.califica_cliente()
-print(resultado)
+print("Resultado obtenido: ",resultado)
 
